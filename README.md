@@ -101,7 +101,7 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) for deta
 
 ## Author
 
-Created and maintained by [Your Name]
+Created and maintained by [Mykola]
 
 ## Acknowledgments
 
